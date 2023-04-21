@@ -8,7 +8,10 @@
 <span style= "display: flex; flex-direction: row;">
 <a href="https://github.com/LeehXD">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+my+name+is+Thiago;Oi%2C+meu+nome+%C3%A9+Thiago" alt="Typing SVG" /></a>
-  <img height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDSWesselka&layout=compact&langs_count=7&theme=react" />
+    <a href="[https://github.com/thigarcias](https://github.com/thigarcias)">
+        <img height="165px"   align="center" src="https://github-readme-stats.vercel.app/api?username=thigarcias&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+
+  <img height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thigarcias&layout=compact&langs_count=7&theme=react" />
  </span>
 
   ## Languages I had
