@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=(0,255,255)&size=45&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Kevin+DS+Wesselka;I'm+20+Years+Old;Be+Welcome+To+Browse+Here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+my+name+is+Thiago;Oi%2C+meu+nome+%C3%A9+Thiago)](https://git.io/typing-svg)
  
  ##
  
@@ -7,8 +7,7 @@
 
 <span style= "display: flex; flex-direction: row;">
 <a href="https://github.com/LeehXD">
-  <a href="[https://github.com/ellen2121](https://github.com/KevinDSWesselka)">
-   <img height="165px"   align="center" src="https://github-readme-stats.vercel.app/api?username=KevinDSWesselka&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+my+name+is+Thiago;Oi%2C+meu+nome+%C3%A9+Thiago" alt="Typing SVG" /></a>
   <img height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDSWesselka&layout=compact&langs_count=7&theme=react" />
  </span>
 
