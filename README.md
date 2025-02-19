@@ -27,4 +27,3 @@
 </div>
 
 <br><p/>
-<img src="https://user-images.githubusercontent.com/53584776/222942742-87571e60-5cd6-454a-ac29-55a4dc771327.jpg" alt="#SouSPTech">
