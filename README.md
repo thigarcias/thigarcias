@@ -6,7 +6,7 @@ I'm a **Fullstack Software Developer** passionate about **Artificial Intelligenc
 
 - 🎓 Graduated in **Analysis and Systems Development** at [São Paulo Tech School](https://www.sptech.school/) *(2023–2024)*
 - 📚 Currently pursuing a postgraduate degree in **Data Science and Artificial Intelligence** at [Instituto Mauá de Tecnologia](https://www.maua.br/) *(2025–2026)*
-- 💼 **Junior Software Analyst at Safra Bank**, focused on fullstack development, fraud detection systems, and automation of financial flows
+- 💼 **Software Engineer at Safra Bank**, focused on fullstack development, fraud detection systems, and automation of financial flows
 - 💡 Strong experience in **Java**, **Spring Boot**, **Node.js**, **Python**, **Next.js**, and **CI/CD pipelines**
 
 ## 💻 Technical Skills
